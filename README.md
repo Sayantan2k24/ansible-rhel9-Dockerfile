@@ -1,4 +1,4 @@
-# Guide: Setting up Ansible Cluster using Docker and RHEL 9
+# Setting up Ansible Cluster using Docker and RHEL 9
 
 # Overview
 
