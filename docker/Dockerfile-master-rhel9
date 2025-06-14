@@ -35,8 +35,8 @@ RUN echo "PubkeyAuthentication yes" >> /etc/ssh/sshd_config && \
 # Expose SSH port
 EXPOSE 22
 
-# logged in user will be root
-# landing page is /home/ansible
+# logged in user will be ansible
+# landing directory is /home/ansible
 USER ansible
 WORKDIR /home/ansible
 
